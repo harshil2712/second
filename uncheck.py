@@ -6,7 +6,7 @@ def add(x, y):
 
 def sub(x, y):
     print('Subtracting...')
-    z = x - y
+    # some edits for main branch
     return z
 
 
@@ -18,5 +18,6 @@ print('First comit to this file.')
 # this is a forked change
 
 
-
 # Some edits for the new branch
+# some edits for the main branch
+
